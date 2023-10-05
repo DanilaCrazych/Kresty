@@ -59,5 +59,10 @@
             <Font name="System Bold" size="45.0" />
          </font>
       </Button>
+      <Label fx:id="win" layoutX="109.0" layoutY="51.0">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
    </children>
 </AnchorPane>
